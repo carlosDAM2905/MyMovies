@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="lorem">Lorem ipsum dolor sit\n amet, consectetur adipiscing \nelit. Sed do eiusmod tempor \nincididunt ut labore et dolore \nmagna aliqua. Ut enim ad minim \nveniam, quis nostrud exercitation \nullamco laboris nisi ut aliquip ex\n ea commodo consequat. Duis aute \nirure dolor in reprehenderit in \nvoluptate velit esse cillum dolore\n eu fugiat nulla pariatur. Excepteur\n sint occaecat cupidatat non proident,\n sunt in culpa qui officia d\neserunt mollit anim id est laborum.</string>
+</resources>
